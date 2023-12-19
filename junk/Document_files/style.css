@@ -1,0 +1,150 @@
+/* *{
+    margin:0px;
+    padding:0px;
+}
+body{
+    overflow-x: hidden;
+}
+
+.box-bor {
+    background-image: url("junk/11.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: aqua;
+}
+
+.box-bor {
+    height: 650px;
+}
+
+.one {
+    margin-top: -75px;
+    background-color: white;
+    height: 370px;
+}
+
+.two {
+    margin-top: -75px;
+    background-color: white;
+    height: 370px;
+}
+
+.three {
+    margin-top: -75px;
+    background-color: white;
+    height: 370px;
+}
+
+i.fa.fa-flask {
+    font-size: 70px;
+    padding: 25px;
+    color: blue;
+}
+
+i.fa.fa-book {
+    font-size: 70px;
+    padding: 25px;
+    color: blue;
+}
+
+i.fa.fa-product-hunt {
+    font-size: 70px;
+    padding: 25px;
+    color: blue;
+}
+
+i.fa.fa-facebook-square {
+    font-size: 35px;
+    color: rgb(22, 22, 172);
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+
+i.fa.fa-twitter-square {
+    font-size: 35px;
+    color: rgb(22, 22, 172);
+    padding-bottom: 15px;
+}
+
+i.fa.fa-instagram {
+    font-size: 35px;
+    color: rgb(22, 22, 172);
+    padding-bottom: 15px;
+}
+
+i.fa.fa-linkedin-square {
+    font-size: 35px;
+    color: rgb(22, 22, 172);
+    padding-bottom: 15px;
+}
+
+a.text-dark {
+    text-decoration: none;
+
+}
+
+a.text-primary {
+    text-decoration: none;
+}
+i.fa.fa-hourglass-start{
+    font-size: 50px;
+    
+}
+i.fa.fa-certificate {
+    font-size:50px ;
+    color: blue;
+}
+i.fa.fa-viadeo.pt-5{
+    font-size: 50px;
+
+}
+i.fa.fa-quote-right{
+    color: blue;
+}
+i.fa.fa-facebook-official{
+    font-size: 35px;
+    color: blue;
+}
+i.fa.fa-twitter-square{
+    font-size: 35px;
+    color: blue;
+}
+i.fa.fa-pinterest-square{
+
+    font-size: 35px;
+    color: blue;
+}
+i.fa.fa-dribbble{
+    
+    font-size: 35px;
+    color: blue;
+} */
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+a.text-primary{
+    text-decoration: none;
+}
+    .box-bor {
+        background-image: url("junk/11.jpg");
+      background-repeat: no-repeat;
+      height: 650px;
+    }
+a.navbar-brand.text-white{
+    padding-left: 100px;
+    padding-right: 350px;
+}
+navbar.navbar.navbar-expand-sm.pb-3.pt-3{
+    position: fixed;
+}
+a.text-white.nav-link{
+    margin-right: 20px;
+}
+a.text-primary.active.nav-link{
+    margin-right:20px ;
+}
+h1{
+    padding-top: 250px;
+}
